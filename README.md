@@ -5,4 +5,5 @@ Para el taller práctico propuesto en clase se creará una rama donde se editar�
 
 ## Integrantes
   - [Erick Steven Velasco Amaya](https://github.com/erickvelasco11)
+  - [Gabriel Giovanni González Galindo](https://github.com/gggonzalezg)
   - [Nombre del integrante](link de github)
