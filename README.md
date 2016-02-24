@@ -5,3 +5,4 @@ Para el taller práctico propuesto en clase se creará una rama donde se editar�
 
 ## Integrantes
   - [Miguel Asencio](https://github.com/maasencioh)
+  - [Diego Vásquez] (https://github.com/davasqueza)
